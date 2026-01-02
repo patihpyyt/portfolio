@@ -22,7 +22,7 @@ function App() {
               </a>
            </div>
         </div>
-        <img src={DataImage.HeroImage1} alt="me Image" className="w-[500] h-100 md:ml-auto rounded-2xl shadow-lg animate__animated animate__fadeInUp animate__delay-4s" loading="lazy"/>
+        <img src={DataImage.HeroImage1} alt="me Image" className="w-90 h-130 object-cover md:ml-auto rounded-2xl shadow-lg animate__animated animate__fadeInUp animate__delay-4s" loading="lazy"/>
       </div>
 
       {/* tetang */}
